@@ -1,0 +1,7 @@
+url: https://github.com/acttk/dsh-bili-interactor
+name: acttk/dsh-bili-interactor
+category: tools
+description:
+  en: 'Lets the agent browse Bilibili and actually take part: search videos, like, coin, send danmaku, post a comment, reply to other people''s comments, and keep the conversation going after someone answers it. Ships a settings panel with six tabs, per-thread reply de-duplication, and a visibility check that tells you whether a comment is really visible to others or only to your own account.'
+  zh: '让 AI 替你逛 B 站并真的参与进去：搜视频、点赞、投币、发弹幕、发评论、回别人的评论，别人回了还能接着聊。自带六页签设置面板、同楼不重复回复的去重，以及「这条评论是真公开了还是只有自己看得见」的可见性检查。'
+icon: https://raw.githubusercontent.com/acttk/dsh-bili-interactor/main/assets/icon-180.png
